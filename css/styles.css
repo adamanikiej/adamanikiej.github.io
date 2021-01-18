@@ -10113,6 +10113,8 @@ section.resume-section .resume-section-content {
   }
 }
 
+/* Beginning of added styling for portfolio page */
+
 .portfolio .portfolio-item {
   cursor: pointer;
   position: relative;
