@@ -10141,13 +10141,13 @@ section.resume-section .resume-section-content {
 .portfolio-modal .portfolio-modal-title {
   font-size: 2.25rem;
   line-height: 2rem;
-  margin-bottom: 2rem;
+  margin-bottom: 2rem !important;
 }
 @media (min-width: 992px) {
   .portfolio-modal .portfolio-modal-title {
     font-size: 3rem;
     line-height: 2.5rem;
-    margin-bottom: 2rem;
+    margin-bottom: 2rem !important;
   }
 }
 .portfolio-modal .close {
