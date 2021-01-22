@@ -10082,6 +10082,11 @@ p.lead {
   background-color: #bd5d38;
 }
 
+.social-icons .resume-icon {
+  width: 9rem !important;
+  border-radius: 20px !important;
+}
+
 .dev-icons {
   font-size: 3rem;
 }
