@@ -7493,6 +7493,10 @@ button.bg-dark:focus {
   margin-bottom: 0 !important;
 }
 
+.mb-0 a {
+  font-size: 80%;
+}
+
 .ml-0,
 .mx-0 {
   margin-left: 0 !important;
